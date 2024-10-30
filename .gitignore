@@ -5,10 +5,10 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# image
+# img
 *.jpg
 *.png
-image/
+img/
 
 # videos
 *.mp4
@@ -17,3 +17,5 @@ image/
 
 # log
 *.log
+
+password.txt
